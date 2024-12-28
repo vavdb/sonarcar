@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "wuKong": "github:elecfreaks/pxt-wukong#v1.5.8"
+        "wuKong": "github:elecfreaks/pxt-wukong#v1.5.8",
+        "sonarbit": "github:elecfreaks/pxt-sonarbit#v1.0.9"
     },
     "files": [
         "main.blocks",
